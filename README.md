@@ -1,7 +1,7 @@
 # punch-alarm-clock
 This clock is designed so that you have to punch three switches so the alarm clock switches off. As each switch is punched down, the buzzer plays an even more high-pitched, annoying sound. The user has to take three separate actions to turn off the alarm clock, and the annoying noise ensures that the alarm clock is not ignorable and leaves the user wide awake. 
 
-Bill of Materials: [Sheet with Materials]([url](https://docs.google.com/spreadsheets/d/1V7v6JoFwLhT-zj1_Hf7WvZFVfDttep2hEawgB4qiXx0/edit?gid=0#gid=0))
+Bill of Materials: https://docs.google.com/spreadsheets/d/1V7v6JoFwLhT-zj1_Hf7WvZFVfDttep2hEawgB4qiXx0/edit?gid=0#gid=0
 
 **Progress (Journal)**
 
