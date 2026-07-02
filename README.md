@@ -1,7 +1,18 @@
 # punch-alarm-clock
 This clock is designed so that you have to punch three switches so the alarm clock switches off. As each switch is punched down, the buzzer plays an even more high-pitched, annoying sound. The user has to take three separate actions to turn off the alarm clock, and the annoying noise ensures that the alarm clock is not ignorable and leaves the user wide awake. 
 
-Bill of Materials: https://docs.google.com/spreadsheets/d/1V7v6JoFwLhT-zj1_Hf7WvZFVfDttep2hEawgB4qiXx0/edit?gid=0#gid=0
+Bill of Materials: 
+|            **Item**           | **Quantity** | **Price** |
+|:-----------------------------:|:------------:|:---------:|
+| Lolin C3 Mini ESP 32 Devboard |       1      |    Kit    |
+|       Keyboard Switches       |       3      |    Kit    |
+|       2.25 in TFT Screen      |       1      |    Kit    |
+|       3.3V Piezzo Buzzer      |       1      |    Kit    |
+|        Small Breadboard       |       1      |   $1.00   |
+|          PLA Filament         |      72g     |   $0.72   |
+|       M-M Jumper Cables       |      10      |    Kit    |
+|       F-M Jumper Cables       |      10      |    Kit    |
+|       F-F Jumper Cables       |      10      |    Kit    |
 
 **Progress (Journal)**
 
